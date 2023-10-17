@@ -1,0 +1,6 @@
+*uso de for
+*uso de if
+*formatar numero (decimais) para string
+*ler planilha de excel (PANDAS)
+*capturar informações da planilha (PANDAS)
+*enviar mensagem via SMS (TWILIO)
