@@ -4,3 +4,5 @@
 *ler planilha de excel (PANDAS)
 *capturar informações da planilha (PANDAS)
 *enviar mensagem via SMS (TWILIO)
+
+https://www.youtube.com/watch?v=GQpQha2Mfpg&ab_channel=HashtagPrograma%C3%A7%C3%A3o
