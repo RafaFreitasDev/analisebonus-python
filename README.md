@@ -15,19 +15,19 @@ Siga os passos abaixo para configurar e executar o projeto:
 
 1. Clone este repositório (ou faça o download do código-fonte):
 
-    ```bash
+    ```powershell
     git clone git@github.com:RafaFreitasDev/analisebonus-python.git
     ```
 
 2. Navegue até o diretório do projeto:
 
-    ```bash
+    ```powershell
     cd analisebonus-python
     ```
 
 3. Crie um ambiente virtual (recomendado):
 
-    ```bash
+    ```powershell
     python -m venv venv
     ```
 
@@ -35,19 +35,19 @@ Siga os passos abaixo para configurar e executar o projeto:
 
     - No Windows:
 
-    ```bash
+    ```powershell
     venv\Scripts\activate
     ```
 
     - No macOS e Linux:
 
-    ```bash
+    ```powershell
     source venv/bin/activate
     ```
 
 5. Instale as dependências do projeto:
 
-    ```bash
+    ```powershell
     pip install -r requirements.txt
     ```
 
@@ -55,6 +55,6 @@ Siga os passos abaixo para configurar e executar o projeto:
 
 Para executar o programa, use o seguinte comando:
 
-```bash
+```powershell
 python main.py
 
